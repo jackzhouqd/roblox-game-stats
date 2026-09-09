@@ -95,3 +95,5 @@ Roblox rate-limits by IP. One call every few seconds is fine; a tight loop is no
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+| Ball VS Ball | 10685282333 | tracking since 2026-09-05 | notes & tested data: [ballvsballgame.com](https://ballvsballgame.com/) |
