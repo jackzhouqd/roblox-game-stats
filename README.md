@@ -97,3 +97,4 @@ Roblox rate-limits by IP. One call every few seconds is fine; a tight loop is no
 MIT — see [LICENSE](LICENSE).
 
 | Ball VS Ball | 10685282333 | tracking since 2026-09-05 | notes & tested data: [ballvsballgame.com](https://ballvsballgame.com/) |
+| Command An Army | 10258991999 | tracking since 2026-09-06 | field notes: [commandanarmy.com](https://commandanarmy.com/) |
