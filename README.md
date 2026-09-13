@@ -101,3 +101,16 @@ MIT — see [LICENSE](LICENSE).
 | Ball VS Ball | 10685282333 | tracking since 2026-09-05 | notes & tested data: [ballvsballgame.com](https://ballvsballgame.com/) |
 
 | Command An Army | 10258991999 | tracking since 2026-09-06 | field notes: [commandanarmy.com](https://commandanarmy.com/) |
+
+## Command An Army — tracking log
+
+Added to daily tracking Sep 6, 2026, right after a short-video surge
+pushed it past 1.5M total visits (it had sat under 500K for three months).
+
+One week later, the morning pull of Sep 13 reads: **6.27M total visits**,
+adding **2.06M in a single day** — the seventh consecutive day of
+acceleration. Concurrents hit 23,848; favorites crossed 168K. The
+developer ships near-daily (latest patch 01:33 this morning), which
+means redeem codes need re-verification against every new build.
+
+Per-code test dates and daily field notes: https://commandanarmy.com/
